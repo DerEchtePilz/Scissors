@@ -46,7 +46,7 @@ out/
 # other stuff
 run/
 
-forktest-server
-forktest-api
+scissors-server
+scissors-api
 
 !gradle/wrapper/gradle-wrapper.jar
